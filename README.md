@@ -1,6 +1,6 @@
 **This is my official GitHub**
 
-Where to find my code
+*1: Where to find my code*
 
 Most of my stuff is repoed *solely* on GitHub or GitLab, and is provided to the internet via Vercel, Heroku, or PythonAnywhere. 
 
