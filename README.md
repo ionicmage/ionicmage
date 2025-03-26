@@ -17,6 +17,6 @@ Mainly Python, because its fun but i can work with most of the other mainstream 
 
 ----
 
-**4: Contact Me: 
+**4: Contact Me:**
 
 ```john@ionicmage.com```
