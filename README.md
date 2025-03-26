@@ -13,10 +13,13 @@ Most of my stuff is hosted on Vercel, Heroku, or PythonAnywhere **if not** on *G
 
 **3: Languages**
 
-Mainly Python, because its fun but i can work with most of the other mainstream languages.
+Mainly Python because its fun, but i can work with most of the other mainstream languages.
 
 ----
 
 **4: Contact Me:**
 
 ```john@ionicmage.com```
+
+----
+J.gx Technologies, a JACNI Subsidary.
