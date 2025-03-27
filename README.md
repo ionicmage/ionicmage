@@ -1,4 +1,4 @@
-**This is my official GitHub** [GitLab](https://gitlab.com/ionicmage)
+**This is my official GitHub** ([GitLab](https://gitlab.com/ionicmage))
 
 *1: Where to find my code*
 
