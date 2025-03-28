@@ -1,4 +1,4 @@
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
+[![Code Helpers Badge](https://www.codetriage.com/codetriage/codetriage/badges/users.svg)](https://codetriage.com/codetriage/codetriage)
 
 **This is my official GitHub** 
 
