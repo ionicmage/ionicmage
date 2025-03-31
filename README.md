@@ -1,4 +1,6 @@
-[![Code Helpers Badge](https://www.codetriage.com/codetriage/codetriage/badges/users.svg)](https://codetriage.com/codetriage/codetriage)![Static Badge](https://img.shields.io/badge/Website_Version-V_0.5-blue)![Static Badge](https://img.shields.io/badge/The_SPD_Status-Finished-blue)![Static Badge](https://img.shields.io/badge/Projects_In_Docs%3A-One-blue)
+[![Code Helpers Badge](https://www.codetriage.com/codetriage/codetriage/badges/users.svg)](https://codetriage.com/codetriage/codetriage)
+
+Versions at the bottom!
 
 **This is my official GitHub** 
 
@@ -11,3 +13,14 @@ Code, dev logs, and projects, along with my blog where i write about my projects
 **Contact Me:**
 
 ![Static Badge](https://img.shields.io/badge/john%40ionicmage.com-blue)
+
+----
+
+# Versions
+
+![Static Badge](https://img.shields.io/badge/Projects_In_Docs%3A-One-blue)
+
+![Static Badge](https://img.shields.io/badge/Website_Version-V_0.5-blue)
+
+![Static Badge](https://img.shields.io/badge/The_SPD_Version:%3A-Release-blue)![Static Badge](https://img.shields.io/badge/Status-Finished-blue)
+
