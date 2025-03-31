@@ -20,7 +20,7 @@ Code, dev logs, and projects, along with my blog where i write about my projects
 
 ![Static Badge](https://img.shields.io/badge/Projects_In_Docs%3A-One-blue)
 
-![Static Badge](https://img.shields.io/badge/Website_Version-V_0.5-blue)
+[![Static Badge](https://img.shields.io/badge/Website_Version-V_0.5-blue)](https://ionicmage.com)
 
 ![Static Badge](https://img.shields.io/badge/The_SPD_Version:%3A-Release-blue)![Static Badge](https://img.shields.io/badge/Status-Finished-blue)
 
