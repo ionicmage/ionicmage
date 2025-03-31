@@ -1,7 +1,9 @@
 [![Code Helpers Badge](https://www.codetriage.com/codetriage/codetriage/badges/users.svg)](https://codetriage.com/codetriage/codetriage)
 
 # Contents:
+
 1: Versions
+
 2: About Me
 
 ----
