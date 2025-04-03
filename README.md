@@ -1,14 +1,14 @@
 [![Code Helpers Badge](https://www.codetriage.com/codetriage/codetriage/badges/users.svg)](https://codetriage.com/codetriage/codetriage)
 
-# Contents:
+# Contents (click to jump):
 
-1: Versions
+1: [Versions](#v)
 
-2: About Me
+2: [About Me](#a)
 
 ----
 
-# Versions
+<a name="v">Versions</a>
 
 ![Static Badge](https://img.shields.io/badge/Projects_In_Docs%3A-One-blue)
 
@@ -18,7 +18,7 @@
 
 ----
 
-# About Me
+<a name="a">About Me</a>
 
 **This is my official GitHub** 
 
